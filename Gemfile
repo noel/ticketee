@@ -19,6 +19,8 @@ group :test do
   gem "factory_girl"
 end
 
+gem "devise"
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
